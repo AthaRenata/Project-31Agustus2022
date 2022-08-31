@@ -8,7 +8,7 @@ int main()
 	
 	cout<<"PROJECT LAMPU LALU LINTAS"<<endl;
 	cout<<"========================="<<endl;
-	cout<<"Masukkan Warna Lampu Lalu Lintas : ";
+	cout<<"Masukkan Warna Lampu Lalu Lintas (merah / hijau) : ";
 	cin>>warna;
 	if(warna=="hijau"){
 		cout<<"Jalan"<<endl;
